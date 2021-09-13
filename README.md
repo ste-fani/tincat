@@ -9,4 +9,4 @@
 - Bootstrap
 
 ### Page
-ste-fani.github.io/tincat/
+https://ste-fani.github.io/tincat/
